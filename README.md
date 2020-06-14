@@ -6,8 +6,6 @@ Currently working on adding these features:
 2. Two factor authentication.
 
 Added a username change feature
-Self imposed deadline: 06.20.2020.
-Project done: False.
 
 ----------------------------
 
